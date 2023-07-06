@@ -2,4 +2,4 @@
 
 [CV](https://KananovichKseniya.github.io/rsschool-cv/cv "Curriculum Vitae")
 
-[CV in HTML](https://KananovichKseniya.github.io/rsschool-cv/cv/index.html)
+[CV in HTML](https://KananovichKseniya.github.io/rsschool-cv/index.html)
