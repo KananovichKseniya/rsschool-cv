@@ -1,1 +1,1 @@
-# rsschool-cv
+[CV in html](https://KananovichKseniya.github.io/rsschool-cv/)
